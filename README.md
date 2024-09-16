@@ -1,4 +1,4 @@
-# Sorting_Game
+# Sorting_Visualizer
 This program recieves data as input from the user and utilizes 5 different sorting algorithms to sort it. Afterwards, the user is instructed to guess the order to which each specific algorithm has been sorted. The user receives 1 point for each guess they enter correctly, and get to play as many rounds as they choose. Each time they score more points than any previous attempt, they are awarded with a new high score. When I first play-tested this program, I faced a dilemma in which each data set i entered was sorted by all 5 algorithms almost instantaneously; as such, I added a functionality in which the user's inputed data is duplicated 100 times in order to create a larger dataset that takes more time to sort. 
 
 ## Takeaways
